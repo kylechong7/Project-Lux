@@ -1,1 +1,2 @@
-[![Project Lux Overview](./A_Overview/project-lux-cover.png)](./A_Overview/Project%20Lux.pdf)
+[![Project Lux Overview](A_Overview/Project-Lux.png)](A_Overview/Project-Lux.pdf)
+
