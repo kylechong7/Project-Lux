@@ -1,3 +1,1 @@
-**Live Write-Up (animated):** https://kylechong7.github.io/Project-Lux/
-
-[![Open the live doc](assets/doc_thumb.gif)](https://kylechong7.github.io/Project-Lux/)
+[![Open Project Lux firmware](A_Overview/cover-only.png)](.A_Overview/Project-Lux.pdf)
