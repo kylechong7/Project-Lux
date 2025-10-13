@@ -1,2 +1,3 @@
-[![Project Lux Overview](A_Overview/cover-only.png)](A_Overview/Project-Lux.pdf)
+**Live Write-Up (animated):** https://<username>.github.io/<repo>/
 
+[![Open the live doc](assets/doc_thumb.gif)](https://<username>.github.io/<repo>/)
