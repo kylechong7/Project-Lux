@@ -1,3 +1,3 @@
-**Live Write-Up (animated):** https://<username>.github.io/<repo>/
+**Live Write-Up (animated):** https://kylechong7.github.io/Project-Lux/
 
-[![Open the live doc](assets/doc_thumb.gif)](https://<username>.github.io/<repo>/)
+[![Open the live doc](assets/doc_thumb.gif)](https://kylechong7.github.io/Project-Lux/)
