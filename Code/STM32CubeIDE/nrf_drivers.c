@@ -1,15 +1,22 @@
 /*
 Library:					NRF24L01/NRF24L01+
-Written by:				Kyle Chong
-Date Written:			6/18/2025
+Written by:				Mohamed Yaqoob (MYaqoobEmbedded YouTube Channel)
+Modified by: 			Kyle Chong
+Date Written:			10/11/2018
 Last modified:		-/-
-Description:			edit this later - This is an STM32 device driver library for the NRF24L01 Nordic Radio transceiver, using STM HAL libraries
+Description:			This is an STM32 device driver library for the NRF24L01 Nordic Radio transceiver, using STM HAL libraries
 
-References:				credit yaqoob - This library was written based on the Arduino NRF24 Open-Source library by J. Coliz and the NRF24 datasheet
+References:				This library was written based on the Arduino NRF24 Open-Source library by J. Coliz and the NRF24 datasheet
 										- https://github.com/maniacbug/RF24
 										- https://www.sparkfun.com/datasheets/Components/SMD/nRF24L01Pluss_Preliminary_Product_Specification_v1_0.pdf
+										
+* Copyright (C) 2018 - M. Yaqoob
+   This is a free software under the GNU license, you can redistribute it and/or modify it under the terms
+   of the GNU General Public Licenseversion 3 as published by the Free Software Foundation.
+	
+   This software library is shared with puplic for educational purposes, without WARRANTY and Author is not liable for any damages caused directly
+   or indirectly by this software, read more about this on the GNU General Public License.
 */
-
 //List of header files
 #include "nrf_drivers.h"
 //*** Variables declaration ***//
