@@ -1,1 +1,1 @@
-[![Open my site](A_Overview/cover-only.png)](A_Overview/Project-Lux.pdf/)
+[![Open my site](A_Overview/Click-to-view.png)](A_Overview/Project-Lux.pdf/)
