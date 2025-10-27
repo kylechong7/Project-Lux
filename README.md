@@ -1,1 +1,1 @@
-[![Open my site](docs/hero.png)](https://your-username.github.io/your-repo/)
+[![Open my site](cover-only.png)](Project-Lux.png/)
